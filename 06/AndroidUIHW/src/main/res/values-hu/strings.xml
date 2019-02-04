@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zene Applikáció</string>
+    <string name="title">Cím</string>
+    <string name="artist">Előadó</string>
+    <string name="details">...</string>
+    <string name="back_button">Vissza</string>
+    <string name="description">Leiras</string>
+</resources>

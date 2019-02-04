@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Application</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="details">...</string>
+    <string name="back_button">Back</string>
+    <string name="description">Description</string>
+</resources>
